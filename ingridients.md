@@ -1,0 +1,1 @@
+potato, tomato, water, oil, rice 
